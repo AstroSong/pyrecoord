@@ -20,7 +20,9 @@ https://github.com/dfm/corner.py
 taotie天文python code搜集
 https://github.com/dr-guangtou/taotie
 
+
 统计分析方法及算法
+---------------
 
 统计方法课程
 https://github.com/KIPAC/StatisticalMethods
@@ -63,25 +65,22 @@ https://github.com/PyWavelets/pywt
 https://github.com/syrte/ndtest
 
 
-
 机器学习及在天文中应用
+---------------
 
 Andrew Ng的机器学习课程
 https://github.com/kaleko/CourseraML
 
-
 机器学习讲解
 https://github.com/ljpzzz/machinelearning
-
-
 
 机器学习练习
 https://github.com/nsoojin/coursera-ml-py
 
-3. astropy一些机器学习方法的使用例子
+astropy一些机器学习方法的使用例子
 https://github.com/astropy/astropy-model-ideas
 
-4. 贝叶斯方法
+贝叶斯方法
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 BEAST：贝叶斯方法拟合SED和消光
@@ -99,9 +98,8 @@ https://github.com/mkounkel/Auriga
 isochrones利用MCMC拟合恒星性质
 https://github.com/timothydmorton/isochrones
 
-
-
 测光
+---------------
 
 基于daophot和idl的psf自动测光
 https://github.com/dnidever/PHOTRED
@@ -141,6 +139,7 @@ https://github.com/mfouesneau/pyphot
 
 
 SED拟合
+---------------
 
 SED拟合探测双星
 https://github.com/bathompso/BINOCS
@@ -155,9 +154,8 @@ https://github.com/s-goldman/Dusty-Evolved-Star-Kit
 SED拟合单星或双星
 https://github.com/vosjo/speedyfit
 
-
-
 特殊望远镜的数据处理
+---------------
 
 GALEX光子抽取
 https://github.com/cmillion/gPhoton
@@ -195,8 +193,8 @@ https://github.com/adrn/pyia
 APOGEE数据处理
 https://github.com/jobovy/apogee
 
-
 光谱
+---------------
 
 光谱rv计算（Broadening Function）
 https://github.com/mrawls/BF-rvplotter
@@ -222,7 +220,6 @@ https://github.com/hypergravity/hrs
 lamost光谱操作工具
 https://github.com/hypergravity/laspec
 
-
 光谱数据处理
 https://github.com/pypeit/PypeIt
 
@@ -232,11 +229,8 @@ https://github.com/kasperschmidt/TDOSE
 HotSAP高温恒星参数测量
 https://github.com/zackdraper/HotSAP
 
-
-
-
-
 天体物理
+---------------
 
 X射线双星的radio/X-ray关系
 https://github.com/bersavosh/XRB-LrLx_pub
@@ -265,17 +259,14 @@ https://github.com/arm2arm/starhorse_db
 
 
 恒星模型
+---------------
 
 Padova轨迹使用
 https://github.com/philrosenfield/padova_tracks
 
-
-
-
-
-
-
 双星
+---------------
+
 joker解轨
 https://github.com/adrn/thejoker
 
@@ -300,24 +291,14 @@ https://github.com/kim22914351420/spectralGA
 双星光谱分解
 https://github.com/aplidinio/Spectral-Disentangling
 
-
-
-
 检查Apogee数据的ccf搜寻光谱双星
 https://github.com/mkounkel/apogeesb2
-
 
 拟合天测双星轨道
 https://github.com/mkounkel/astrometric_binaries
 
-
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
 
-
 拟合轨道的一些方法
 https://github.com/jacob-i-skinner/Orbit-Fitting
-
-
-
-
