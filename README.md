@@ -1,7 +1,9 @@
 # pyrecoord
 A collection of useful python codes from github (keep updating)
 
+
 Python教程及技巧
+---------------
 
 python教程
 https://github.com/TwoWater/Python
