@@ -285,7 +285,7 @@ https://github.com/phoebe-project/phoebe2
 ELC的输入输出
 https://github.com/mrawls/ELCtools
 
-机器学习进行光谱分解
+机器学习进行光谱分解【演化的光谱】
 https://github.com/kim22914351420/spectralGA
 
 双星光谱分解
