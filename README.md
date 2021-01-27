@@ -65,6 +65,20 @@ https://github.com/PyWavelets/pywt
 https://github.com/syrte/ndtest
 
 
+
+数据拟合
+---------------
+
+zfit
+https://github.com/zfit/zfit
+
+symfit
+https://github.com/tBuLi/symfit
+
+Solid
+https://github.com/100/Solid
+
+
 机器学习及在天文中应用
 ---------------
 
