@@ -28,10 +28,13 @@ https://github.com/dr-guangtou/taotie
 https://github.com/KIPAC/StatisticalMethods
 
 
-1.The Hartigans' dip statistic
+The Hartigans' dip statistic
 https://github.com/tatome/dip_test
 
-2. scipy的统计模型补充
+天文统计
+https://github.com/liuchaonaoc/Astrostatistics
+
+scipy的统计模型补充
 https://github.com/statsmodels/statsmodels
 
 mpfit（Levenberg–Markwardt fit algorithm）
@@ -316,3 +319,15 @@ https://github.com/mrawls/FDBinary-tools
 
 拟合轨道的一些方法
 https://github.com/jacob-i-skinner/Orbit-Fitting
+
+
+lamost相关
+--------------
+
+lamost寻找pn
+https://github.com/sevenlin123/lamost_pn
+
+LAMOST光谱分类的一些程序
+https://github.com/WangTX1128/LAMOST-
+
+
