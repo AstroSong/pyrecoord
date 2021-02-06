@@ -171,6 +171,9 @@ https://github.com/s-goldman/Dusty-Evolved-Star-Kit
 SED拟合单星或双星
 https://github.com/vosjo/speedyfit
 
+astroARIADNE SED拟合
+https://github.com/jvines/astroARIADNE
+
 特殊望远镜的数据处理
 ---------------
 
