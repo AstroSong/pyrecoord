@@ -115,6 +115,7 @@ https://github.com/mkounkel/Auriga
 isochrones利用MCMC拟合恒星性质
 https://github.com/timothydmorton/isochrones
 
+
 测光
 ---------------
 
@@ -174,6 +175,7 @@ https://github.com/vosjo/speedyfit
 astroARIADNE SED拟合
 https://github.com/jvines/astroARIADNE
 
+
 特殊望远镜的数据处理
 ---------------
 
@@ -213,6 +215,7 @@ https://github.com/adrn/pyia
 APOGEE数据处理
 https://github.com/jobovy/apogee
 
+
 光谱
 ---------------
 
@@ -249,6 +252,7 @@ https://github.com/kasperschmidt/TDOSE
 HotSAP高温恒星参数测量
 https://github.com/zackdraper/HotSAP
 
+
 天体物理
 ---------------
 
@@ -283,6 +287,7 @@ https://github.com/arm2arm/starhorse_db
 
 Padova轨迹使用
 https://github.com/philrosenfield/padova_tracks
+
 
 双星
 ---------------
@@ -326,6 +331,12 @@ https://github.com/jacob-i-skinner/Orbit-Fitting
 
 lamost相关
 --------------
+
+大气参数/质量/年龄拟合
+https://github.com/annayqho/TheCannon
+
+astroNN
+https://github.com/henrysky/astroNN
 
 lamost寻找pn
 https://github.com/sevenlin123/lamost_pn
