@@ -334,6 +334,7 @@ https://github.com/jacob-i-skinner/Orbit-Fitting
 
 WD code的python端
 https://github.com/swj1442291549/pyWDc
+https://github.com/Varnani/pywd2015-qt5
 
 
 lamost相关
