@@ -155,6 +155,10 @@ https://github.com/vterron/lemon
 pyphot从光谱计算星等
 https://github.com/mfouesneau/pyphot
 
+dolphot处理HST数据
+https://github.com/dweisz/pydolphot
+https://github.com/swj1442291549/pydolphot
+
 
 SED拟合
 ---------------
@@ -327,6 +331,9 @@ https://github.com/mrawls/FDBinary-tools
 
 拟合轨道的一些方法
 https://github.com/jacob-i-skinner/Orbit-Fitting
+
+WD code的python端
+https://github.com/swj1442291549/pyWDc
 
 
 lamost相关
