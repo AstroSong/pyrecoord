@@ -278,12 +278,20 @@ https://github.com/Elie23/X-ray-flare-simulator
 机器学习识别yso
 https://github.com/riwajpokhrel/predictive-modeling-yso
 
-
 UPSILoN机器学习进行变星分类
 https://github.com/dwkim78/upsilon
 
 如何获得starhorse数据
 https://github.com/arm2arm/starhorse_db
+
+X射线数据周期搜寻（存在Pdot）
+https://github.com/stingraysoftware/hendrics
+
+X射线时域光谱分析工具
+https://github.com/StingraySoftware/stingray
+
+天文时序数据分析
+https://github.com/astroML/gatspy
 
 
 恒星模型
