@@ -223,6 +223,12 @@ https://github.com/jobovy/apogee
 光谱
 ---------------
 
+光谱处理
+https://github.com/astropy/specutils
+
+去宇宙线
+https://github.com/larrybradley/lacosmic
+
 光谱rv计算（Broadening Function）
 https://github.com/mrawls/BF-rvplotter
 
