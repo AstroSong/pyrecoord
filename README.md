@@ -119,6 +119,9 @@ https://github.com/timothydmorton/isochrones
 测光
 ---------------
 
+测光
+https://github.com/astropy/photutils
+
 基于daophot和idl的psf自动测光
 https://github.com/dnidever/PHOTRED
 
