@@ -119,6 +119,9 @@ https://github.com/timothydmorton/isochrones
 测光
 ---------------
 
+图像预处理(光谱通用)
+https://github.com/astropy/ccdproc
+
 测光
 https://github.com/astropy/photutils
 
