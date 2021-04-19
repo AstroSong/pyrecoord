@@ -35,7 +35,6 @@ https://github.com/tatome/dip_test
 https://github.com/liuchaonaoc/Astrostatistics
 
 MCMC估计误差
-MCMCPy - Markov Chain Monte Carlo Sampling with Python
 https://github.com/nasa/MCMCPy
 
 scipy的统计模型补充
