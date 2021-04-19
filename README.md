@@ -34,6 +34,10 @@ https://github.com/tatome/dip_test
 天文统计
 https://github.com/liuchaonaoc/Astrostatistics
 
+MCMC估计误差
+MCMCPy - Markov Chain Monte Carlo Sampling with Python
+https://github.com/nasa/MCMCPy
+
 scipy的统计模型补充
 https://github.com/statsmodels/statsmodels
 
@@ -119,7 +123,7 @@ https://github.com/timothydmorton/isochrones
 测光
 ---------------
 
-图像预处理(光谱通用)
+图像预处理(光谱通用)　ccdproc
 https://github.com/astropy/ccdproc
 
 测光
