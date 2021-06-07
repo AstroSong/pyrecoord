@@ -222,6 +222,9 @@ https://github.com/KeplerGO/k2-footprint-plots
 TESS光变和SB9光谱双星交叉
 https://github.com/SimonJMurphy/TESSSB9
 
+TESS光变处理
+https://github.com/msotov/get_TESS_lightcurves
+
 Gaia数据利用
 https://github.com/adrn/pyia
 
@@ -270,6 +273,9 @@ https://github.com/kasperschmidt/TDOSE
 
 HotSAP高温恒星参数测量
 https://github.com/zackdraper/HotSAP
+
+高分辨率光谱参数测量 (HARPS, FEROS, UVES, HIRES, PFS, CORALIE)
+https://github.com/msotov/SPECIES
 
 
 天体物理
