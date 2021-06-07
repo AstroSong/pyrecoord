@@ -11,6 +11,9 @@ https://github.com/TwoWater/Python
 Astropy package for region handling
 https://github.com/astropy/regions
 
+PyAstronomy
+https://github.com/sczesla/PyAstronomy
+
 Dave Green的colormap图
 https://github.com/jradavenport/cubehelix
 
