@@ -317,6 +317,9 @@ https://github.com/StingraySoftware/stingray
 天文时序数据分析
 https://github.com/astroML/gatspy
 
+Generalised Lomb-Scargle periodogram
+https://github.com/mzechmeister/GLS
+
 
 恒星模型
 ---------------
