@@ -320,6 +320,9 @@ https://github.com/astroML/gatspy
 Generalised Lomb-Scargle periodogram
 https://github.com/mzechmeister/GLS
 
+BayesianGLS
+https://github.com/jvines/BayesianGLS
+
 
 恒星模型
 ---------------
