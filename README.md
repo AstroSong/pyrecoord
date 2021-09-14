@@ -358,6 +358,9 @@ https://github.com/kim22914351420/spectralGA
 双星光谱分解
 https://github.com/aplidinio/Spectral-Disentangling
 
+双星SED拟合
+https://github.com/jikrant3/Binary_SED_Fitting
+
 检查Apogee数据的ccf搜寻光谱双星
 https://github.com/mkounkel/apogeesb2
 
