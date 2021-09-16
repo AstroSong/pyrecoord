@@ -280,6 +280,9 @@ https://github.com/zackdraper/HotSAP
 高分辨率光谱参数测量 (HARPS, FEROS, UVES, HIRES, PFS, CORALIE)
 https://github.com/msotov/SPECIES
 
+光谱分类
+https://github.com/BU-hammerTeam/PyHammer
+
 
 天体物理
 ---------------
