@@ -326,6 +326,9 @@ https://github.com/mzechmeister/GLS
 BayesianGLS
 https://github.com/jvines/BayesianGLS
 
+各种天文工具集合pwkit
+https://github.com/pkgw/pwkit
+
 
 恒星模型
 ---------------
