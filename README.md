@@ -257,19 +257,13 @@ https://github.com/callendeprieto/chain
 https://github.com/callendeprieto/synple
 
 阶梯光栅光谱处理
-https://github.com/wangleon/gamse、
-
-lamost光谱处理workshop
-https://github.com/hypergravity/spectroscopy
-
-2.16高分辨率光谱处理
-https://github.com/hypergravity/hrs
-
-lamost光谱操作工具
-https://github.com/hypergravity/laspec
+https://github.com/wangleon/gamse
 
 光谱数据处理
 https://github.com/pypeit/PypeIt
+
+2.16高分辨率光谱处理
+https://github.com/hypergravity/hrs
 
 IFU三维光谱处理
 https://github.com/kasperschmidt/TDOSE
@@ -392,6 +386,12 @@ https://github.com/annayqho/TheCannon
 
 astroNN
 https://github.com/henrysky/astroNN
+
+lamost光谱处理workshop
+https://github.com/hypergravity/spectroscopy
+
+lamost光谱操作工具
+https://github.com/hypergravity/laspec
 
 lamost寻找pn
 https://github.com/sevenlin123/lamost_pn
