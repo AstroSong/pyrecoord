@@ -30,7 +30,6 @@ https://github.com/dr-guangtou/taotie
 统计方法课程
 https://github.com/KIPAC/StatisticalMethods
 
-
 The Hartigans' dip statistic
 https://github.com/tatome/dip_test
 
@@ -178,7 +177,6 @@ SED拟合
 SED拟合探测双星
 https://github.com/bathompso/BINOCS
 
-
 SED拟合
 https://github.com/dunkenj/smpy
 
@@ -238,6 +236,20 @@ https://github.com/jobovy/apogee
 光谱
 ---------------
 
+光谱数据处理
+https://github.com/pypeit/PypeIt
+
+一维长缝光谱处理 
+https://github.com/TheAstroFactory/pydis
+
+阶梯光栅光谱处理
+https://github.com/wangleon/gamse
+https://github.com/ronnyerrmann/HiFLEx
+https://github.com/oromero1995/SpecTracer
+
+2.16高分辨率光谱处理
+https://github.com/hypergravity/hrs
+
 光谱处理
 https://github.com/astropy/specutils
 
@@ -247,23 +259,11 @@ https://github.com/larrybradley/lacosmic
 光谱rv计算（Broadening Function）
 https://github.com/mrawls/BF-rvplotter
 
-一维长缝光谱处理 
-https://github.com/TheAstroFactory/pydis
-
 HoRuS数据处理
 https://github.com/callendeprieto/chain
 
 光谱合成
 https://github.com/callendeprieto/synple
-
-阶梯光栅光谱处理
-https://github.com/wangleon/gamse
-
-光谱数据处理
-https://github.com/pypeit/PypeIt
-
-2.16高分辨率光谱处理
-https://github.com/hypergravity/hrs
 
 IFU三维光谱处理
 https://github.com/kasperschmidt/TDOSE
@@ -357,6 +357,9 @@ https://github.com/kim22914351420/spectralGA
 
 双星光谱分解
 https://github.com/aplidinio/Spectral-Disentangling
+
+双星rv抽取
+https://github.com/kcotar/Spectroscopic-binary-decomposition
 
 双星SED拟合
 https://github.com/jikrant3/Binary_SED_Fitting
