@@ -185,6 +185,10 @@ https://github.com/s-goldman/Dusty-Evolved-Star-Kit
 
 SED拟合单星或双星
 https://github.com/vosjo/speedyfit
+https://github.com/lidihei/speedysedfit
+
+双星SED拟合
+https://github.com/jikrant3/Binary_SED_Fitting
 
 astroARIADNE SED拟合
 https://github.com/jvines/astroARIADNE
@@ -362,9 +366,6 @@ https://github.com/aplidinio/Spectral-Disentangling
 
 双星rv抽取
 https://github.com/kcotar/Spectroscopic-binary-decomposition
-
-双星SED拟合
-https://github.com/jikrant3/Binary_SED_Fitting
 
 检查Apogee数据的ccf搜寻光谱双星
 https://github.com/mkounkel/apogeesb2
