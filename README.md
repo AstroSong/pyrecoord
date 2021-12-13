@@ -90,6 +90,8 @@ https://github.com/100/Solid
 机器学习及在天文中应用
 ---------------
 
+https://github.com/astroML/astroML
+
 Andrew Ng的机器学习课程
 https://github.com/kaleko/CourseraML
 
