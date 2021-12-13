@@ -240,6 +240,9 @@ https://github.com/adrn/pyia
 APOGEE数据处理
 https://github.com/jobovy/apogee
 
+wise及neowise光变曲线
+https://github.com/HC-Hwang/wise_light_curves
+
 
 光谱
 ---------------
