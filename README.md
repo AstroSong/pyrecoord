@@ -23,6 +23,8 @@ https://github.com/dfm/corner.py
 taotie天文python code搜集
 https://github.com/dr-guangtou/taotie
 
+各类ascii table读取
+https://docs.astropy.org/en/stable/io/ascii/index.html
 
 统计分析方法及算法
 ---------------
