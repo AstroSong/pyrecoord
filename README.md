@@ -245,6 +245,12 @@ https://github.com/jobovy/apogee
 wise及neowise光变曲线
 https://github.com/HC-Hwang/wise_light_curves
 
+ZTF报警
+https://github.com/ZwickyTransientFacility/alert_tools
+
+ZTF源分类
+https://github.com/ZwickyTransientFacility/scope
+
 
 光谱
 ---------------
