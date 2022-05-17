@@ -420,4 +420,3 @@ https://github.com/sevenlin123/lamost_pn
 LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
 
-
