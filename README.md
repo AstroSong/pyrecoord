@@ -176,6 +176,9 @@ dolphot处理HST数据
 https://github.com/dweisz/pydolphot
 https://github.com/swj1442291549/pydolphot
 
+imexam交互式查看图像
+https://github.com/spacetelescope/imexam
+
 
 SED拟合
 ---------------
