@@ -26,6 +26,7 @@ https://github.com/dr-guangtou/taotie
 各类ascii table读取
 https://docs.astropy.org/en/stable/io/ascii/index.html
 
+
 统计分析方法及算法
 ---------------
 
@@ -38,17 +39,8 @@ https://github.com/tatome/dip_test
 天文统计
 https://github.com/liuchaonaoc/Astrostatistics
 
-MCMC估计误差
-https://github.com/nasa/MCMCPy
-
 scipy的统计模型补充
 https://github.com/statsmodels/statsmodels
-
-mpfit（Levenberg–Markwardt fit algorithm）
-https://github.com/Nablaquabla/easyfit
-
-mpfit
-https://github.com/abeelen/mpfit
 
 GaussPy：Autonomous Gaussian Decomposition算法
 https://github.com/gausspy/gausspy
@@ -99,6 +91,15 @@ https://github.com/100/Solid
 lmfit
 https://github.com/lmfit/lmfit-py
 https://github.com/maorshutman/lm
+
+mpfit
+https://github.com/abeelen/mpfit
+
+mpfit（Levenberg–Markwardt fit algorithm）
+https://github.com/Nablaquabla/easyfit
+
+MCMC估计误差
+https://github.com/nasa/MCMCPy
 
 
 机器学习及在天文中应用
@@ -178,7 +179,7 @@ https://github.com/hippke/wotan
 自动测光
 https://github.com/mommermi/photometrypipeline
 
-交叉测光（配置未成功）
+较差测光（配置未成功）
 https://github.com/vterron/lemon
 
 pyphot从光谱计算星等
@@ -190,6 +191,10 @@ https://github.com/swj1442291549/pydolphot
 
 imexam交互式查看图像
 https://github.com/spacetelescope/imexam
+
+天测改正图像坐标
+https://github.com/dstndstn/astrometry.net
+https://github.com/lukaswenzl/astrometry
 
 
 SED拟合
@@ -359,6 +364,13 @@ https://github.com/mzechmeister/GLS
 BayesianGLS
 https://github.com/jvines/BayesianGLS
 
+TDE光变拟合
+https://github.com/guillochon/tdefit
+
+
+天文工具
+---------------
+
 各种天文工具集合pwkit
 https://github.com/pkgw/pwkit
 
@@ -366,7 +378,8 @@ https://github.com/pkgw/pwkit
 https://github.com/mfouesneau/dustapprox
 https://github.com/karllark/dust_extinction
 
-得到消光
+获取消光率
+https://github.com/kbarbary/extinction
 
 由光谱计算波段测光
 https://github.com/mfouesneau/cphot
@@ -374,18 +387,13 @@ https://github.com/mfouesneau/cphot
 生成临边昏暗系数
 https://github.com/nespinoza/limb-darkening
 
-
-
 天文表格获取
 https://github.com/astrocatalogs/astrocats
 https://github.com/lukaswenzl/astrometry
 
-
-
-天测改正图像坐标
-https://github.com/dstndstn/astrometry.net
-
-
+findchart自动下载
+https://github.com/juandesant/DownloadSDSSFindingCharts
+https://github.com/fpavogt/fcmaker
 
 
 恒星模型
@@ -445,6 +453,9 @@ WD code的python端
 https://github.com/swj1442291549/pyWDc
 https://github.com/Varnani/pywd2015-qt5
 
+多体系统光变曲线拟合
+https://github.com/dfm/photodynam
+
 
 lamost相关
 --------------
@@ -469,20 +480,3 @@ https://github.com/astronomical-data-processing/cnn_spectra_classification
 
 LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
-
-
-findchart自动下载
---------------
-https://github.com/juandesant/DownloadSDSSFindingCharts
-https://github.com/fpavogt/fcmaker
-
-
-
-光变曲线拟合
---------------
-
-TDE光变拟合
-https://github.com/guillochon/tdefit
-
-多体系统
-https://github.com/dfm/photodynam
