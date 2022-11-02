@@ -74,6 +74,14 @@ https://github.com/PyWavelets/pywt
 多维统计检验
 https://github.com/syrte/ndtest
 
+大数据统计
+https://github.com/mfouesneau/faststats
+
+STFT短时傅里叶变换
+https://github.com/nils-werner/stft
+
+信号分析，包括STFT等
+https://github.com/zafarrafii/Zaf-Python
 
 
 数据拟合
@@ -87,6 +95,10 @@ https://github.com/tBuLi/symfit
 
 Solid
 https://github.com/100/Solid
+
+lmfit
+https://github.com/lmfit/lmfit-py
+https://github.com/maorshutman/lm
 
 
 机器学习及在天文中应用
@@ -301,6 +313,9 @@ https://github.com/msotov/SPECIES
 光谱分类
 https://github.com/BU-hammerTeam/PyHammer
 
+光谱库提取
+https://mfouesneau.github.io/pystellibs/
+
 
 天体物理
 ---------------
@@ -346,6 +361,22 @@ https://github.com/jvines/BayesianGLS
 
 各种天文工具集合pwkit
 https://github.com/pkgw/pwkit
+
+计算消光系数/消光曲线
+https://github.com/mfouesneau/dustapprox
+https://github.com/karllark/dust_extinction
+
+得到消光
+
+由光谱计算波段测光
+https://github.com/mfouesneau/cphot
+
+生成临边昏暗系数
+https://github.com/nespinoza/limb-darkening
+
+
+
+
 
 
 恒星模型
@@ -393,6 +424,10 @@ https://github.com/mkounkel/astrometric_binaries
 
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
+https://github.com/ayushmoharana/fd3_initiator
+
+光谱分解
+https://github.com/jsinkbaek/sb2sep
 
 拟合轨道的一些方法
 https://github.com/jacob-i-skinner/Orbit-Fitting
@@ -420,6 +455,25 @@ https://github.com/hypergravity/laspec
 lamost寻找pn
 https://github.com/sevenlin123/lamost_pn
 
+lamost光谱证认hotsubdwarf
+https://github.com/astronomical-data-processing/cnn_spectra_classification
+
 LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
 
+
+findchart自动下载
+--------------
+https://github.com/juandesant/DownloadSDSSFindingCharts
+https://github.com/fpavogt/fcmaker
+
+
+
+光变曲线拟合
+--------------
+
+TDE光变拟合
+https://github.com/guillochon/tdefit
+
+多体系统
+https://github.com/dfm/photodynam
