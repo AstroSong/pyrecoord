@@ -75,6 +75,12 @@ https://github.com/nils-werner/stft
 信号分析，包括STFT等
 https://github.com/zafarrafii/Zaf-Python
 
+Generalised Lomb-Scargle periodogram
+https://github.com/mzechmeister/GLS
+
+BayesianGLS
+https://github.com/jvines/BayesianGLS
+
 
 数据拟合
 ---------------
@@ -102,42 +108,32 @@ MCMC估计误差
 https://github.com/nasa/MCMCPy
 
 
-机器学习及在天文中应用
+天文工具
 ---------------
 
-astroML及其示例
-https://github.com/astroML/astroML
-https://github.com/YastroML/YastroML
+各种天文工具集合pwkit
+https://github.com/pkgw/pwkit
 
-Andrew Ng的机器学习课程
-https://github.com/kaleko/CourseraML
+计算消光系数/消光曲线
+https://github.com/mfouesneau/dustapprox
+https://github.com/karllark/dust_extinction
 
-机器学习讲解
-https://github.com/ljpzzz/machinelearning
+获取消光率
+https://github.com/kbarbary/extinction
 
-机器学习练习
-https://github.com/nsoojin/coursera-ml-py
+由光谱计算波段测光
+https://github.com/mfouesneau/cphot
 
-astropy一些机器学习方法的使用例子
-https://github.com/astropy/astropy-model-ideas
+生成临边昏暗系数
+https://github.com/nespinoza/limb-darkening
 
-贝叶斯方法
-https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+天文表格获取
+https://github.com/astrocatalogs/astrocats
+https://github.com/lukaswenzl/astrometry
 
-BEAST：贝叶斯方法拟合SED和消光
-https://github.com/BEAST-Fitting/beast
-
-MCMC和mpfit举例
-https://github.com/AnitaPetzler/FittingExamples
-
-分析光变搜寻变星
-https://github.com/waqasbhatti/astrobase
-
-Auriga神经网络预测星族年龄、消光、距离
-https://github.com/mkounkel/Auriga
-
-isochrones利用MCMC拟合恒星性质
-https://github.com/timothydmorton/isochrones
+findchart自动下载
+https://github.com/juandesant/DownloadSDSSFindingCharts
+https://github.com/fpavogt/fcmaker
 
 
 测光
@@ -220,58 +216,6 @@ astroARIADNE SED拟合
 https://github.com/jvines/astroARIADNE
 
 
-特殊望远镜的数据处理
----------------
-
-GALEX光子抽取
-https://github.com/cmillion/gPhoton
-
-APO 1m望远镜观测安排/数据处理/较差测光
-https://github.com/mrawls/APO-1m-phot
-
-Kepler, K2 & TESS数据分析
-https://github.com/KeplerGO/pyke
-
-Kepler/TESS时间序列分析
-https://github.com/KeplerGO/lightkurve
-
-Kepler光变曲线生成
-https://github.com/mrawls/kepler-makelc
-
-k2光变曲线De-trending
-https://github.com/rodluger/everest
-
-检查天体是否在k2天区内
-https://github.com/KeplerGO/K2fov
-
-k2天区
-https://github.com/KeplerGO/K2FootprintFiles
-
-画k2天区
-https://github.com/KeplerGO/k2-footprint-plots
-
-TESS光变和SB9光谱双星交叉
-https://github.com/SimonJMurphy/TESSSB9
-
-TESS光变处理
-https://github.com/msotov/get_TESS_lightcurves
-
-Gaia数据利用
-https://github.com/adrn/pyia
-
-APOGEE数据处理
-https://github.com/jobovy/apogee
-
-wise及neowise光变曲线
-https://github.com/HC-Hwang/wise_light_curves
-
-ZTF报警
-https://github.com/ZwickyTransientFacility/alert_tools
-
-ZTF源分类
-https://github.com/ZwickyTransientFacility/scope
-
-
 光谱
 ---------------
 
@@ -320,87 +264,6 @@ https://github.com/BU-hammerTeam/PyHammer
 
 光谱库提取
 https://mfouesneau.github.io/pystellibs/
-
-
-天体物理
----------------
-
-X射线双星的radio/X-ray关系
-https://github.com/bersavosh/XRB-LrLx_pub
-
-高斯过程分析恒星耀发
-https://github.com/dhuppenkothen/SolarFlareGPs
-
-PRESTO脉冲星搜寻和分析
-https://github.com/scottransom/presto
-
-机器学习辨认射电源和宿主星系
-https://github.com/chengsoonong/crowdastro
-
-X射线耀发探测模拟（Bayesian Blocks ）
-https://github.com/Elie23/X-ray-flare-simulator
-
-机器学习识别yso
-https://github.com/riwajpokhrel/predictive-modeling-yso
-
-UPSILoN机器学习进行变星分类
-https://github.com/dwkim78/upsilon
-
-如何获得starhorse数据
-https://github.com/arm2arm/starhorse_db
-
-X射线数据周期搜寻（存在Pdot）
-https://github.com/stingraysoftware/hendrics
-
-X射线时域光谱分析工具
-https://github.com/StingraySoftware/stingray
-
-天文时序数据分析
-https://github.com/astroML/gatspy
-
-Generalised Lomb-Scargle periodogram
-https://github.com/mzechmeister/GLS
-
-BayesianGLS
-https://github.com/jvines/BayesianGLS
-
-TDE光变拟合
-https://github.com/guillochon/tdefit
-
-
-天文工具
----------------
-
-各种天文工具集合pwkit
-https://github.com/pkgw/pwkit
-
-计算消光系数/消光曲线
-https://github.com/mfouesneau/dustapprox
-https://github.com/karllark/dust_extinction
-
-获取消光率
-https://github.com/kbarbary/extinction
-
-由光谱计算波段测光
-https://github.com/mfouesneau/cphot
-
-生成临边昏暗系数
-https://github.com/nespinoza/limb-darkening
-
-天文表格获取
-https://github.com/astrocatalogs/astrocats
-https://github.com/lukaswenzl/astrometry
-
-findchart自动下载
-https://github.com/juandesant/DownloadSDSSFindingCharts
-https://github.com/fpavogt/fcmaker
-
-
-恒星模型
----------------
-
-Padova轨迹使用
-https://github.com/philrosenfield/padova_tracks
 
 
 双星
@@ -455,6 +318,139 @@ https://github.com/Varnani/pywd2015-qt5
 
 多体系统光变曲线拟合
 https://github.com/dfm/photodynam
+
+
+天体物理
+---------------
+
+X射线双星的radio/X-ray关系
+https://github.com/bersavosh/XRB-LrLx_pub
+
+高斯过程分析恒星耀发
+https://github.com/dhuppenkothen/SolarFlareGPs
+
+PRESTO脉冲星搜寻和分析
+https://github.com/scottransom/presto
+
+机器学习辨认射电源和宿主星系
+https://github.com/chengsoonong/crowdastro
+
+X射线耀发探测模拟（Bayesian Blocks ）
+https://github.com/Elie23/X-ray-flare-simulator
+
+机器学习识别yso
+https://github.com/riwajpokhrel/predictive-modeling-yso
+
+UPSILoN机器学习进行变星分类
+https://github.com/dwkim78/upsilon
+
+如何获得starhorse数据
+https://github.com/arm2arm/starhorse_db
+
+X射线数据周期搜寻（存在Pdot）
+https://github.com/stingraysoftware/hendrics
+
+X射线时域光谱分析工具
+https://github.com/StingraySoftware/stingray
+
+天文时序数据分析
+https://github.com/astroML/gatspy
+
+TDE光变拟合
+https://github.com/guillochon/tdefit
+
+Padova恒星模型轨迹使用
+https://github.com/philrosenfield/padova_tracks
+
+
+机器学习及在天文中应用
+---------------
+
+astroML及其示例
+https://github.com/astroML/astroML
+https://github.com/YastroML/YastroML
+
+Andrew Ng的机器学习课程
+https://github.com/kaleko/CourseraML
+
+机器学习讲解
+https://github.com/ljpzzz/machinelearning
+
+机器学习练习
+https://github.com/nsoojin/coursera-ml-py
+
+astropy一些机器学习方法的使用例子
+https://github.com/astropy/astropy-model-ideas
+
+贝叶斯方法
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+BEAST：贝叶斯方法拟合SED和消光
+https://github.com/BEAST-Fitting/beast
+
+MCMC和mpfit举例
+https://github.com/AnitaPetzler/FittingExamples
+
+分析光变搜寻变星
+https://github.com/waqasbhatti/astrobase
+
+Auriga神经网络预测星族年龄、消光、距离
+https://github.com/mkounkel/Auriga
+
+isochrones利用MCMC拟合恒星性质
+https://github.com/timothydmorton/isochrones
+
+
+特殊望远镜的数据处理
+---------------
+
+GALEX光子抽取
+https://github.com/cmillion/gPhoton
+
+APO 1m望远镜观测安排/数据处理/较差测光
+https://github.com/mrawls/APO-1m-phot
+
+Kepler, K2 & TESS数据分析
+https://github.com/KeplerGO/pyke
+
+Kepler/TESS时间序列分析
+https://github.com/KeplerGO/lightkurve
+
+Kepler光变曲线生成
+https://github.com/mrawls/kepler-makelc
+
+k2光变曲线De-trending
+https://github.com/rodluger/everest
+
+检查天体是否在k2天区内
+https://github.com/KeplerGO/K2fov
+
+k2天区
+https://github.com/KeplerGO/K2FootprintFiles
+
+画k2天区
+https://github.com/KeplerGO/k2-footprint-plots
+
+TESS光变和SB9光谱双星交叉
+https://github.com/SimonJMurphy/TESSSB9
+
+TESS光变处理
+https://github.com/msotov/get_TESS_lightcurves
+
+Gaia数据利用
+https://github.com/adrn/pyia
+
+APOGEE数据处理
+https://github.com/jobovy/apogee
+
+wise及neowise光变曲线
+https://github.com/HC-Hwang/wise_light_curves
+
+ZTF报警
+https://github.com/ZwickyTransientFacility/alert_tools
+
+ZTF源分类
+https://github.com/ZwickyTransientFacility/scope
 
 
 lamost相关
