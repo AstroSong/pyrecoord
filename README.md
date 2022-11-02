@@ -376,6 +376,15 @@ https://github.com/nespinoza/limb-darkening
 
 
 
+天文表格获取
+https://github.com/astrocatalogs/astrocats
+https://github.com/lukaswenzl/astrometry
+
+
+
+天测改正图像坐标
+https://github.com/dstndstn/astrometry.net
+
 
 
 
