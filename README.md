@@ -107,6 +107,9 @@ https://github.com/Nablaquabla/easyfit
 MCMC估计误差
 https://github.com/nasa/MCMCPy
 
+连续分段函数拟合
+https://github.com/cjekel/piecewise_linear_fit_py
+
 
 天文工具
 ---------------
@@ -134,6 +137,12 @@ https://github.com/lukaswenzl/astrometry
 findchart自动下载
 https://github.com/juandesant/DownloadSDSSFindingCharts
 https://github.com/fpavogt/fcmaker
+
+交互式画天区
+https://github.com/ggreco77/GWsky
+
+巡天模拟
+https://github.com/ZwickyTransientFacility/simsurvey
 
 
 测光
@@ -293,7 +302,7 @@ https://github.com/kim22914351420/spectralGA
 双星光谱分解
 https://github.com/aplidinio/Spectral-Disentangling
 
-双星rv抽取
+双星SB2 rv抽取
 https://github.com/kcotar/Spectroscopic-binary-decomposition
 
 检查Apogee数据的ccf搜寻光谱双星
@@ -356,11 +365,21 @@ https://github.com/StingraySoftware/stingray
 天文时序数据分析
 https://github.com/astroML/gatspy
 
-TDE光变拟合
+TDE光变拟合（fortran）
 https://github.com/guillochon/tdefit
 
-Padova恒星模型轨迹使用
-https://github.com/philrosenfield/padova_tracks
+TDE恒星性质
+https://github.com/jamielaw-smith/STARS_library
+
+TDE光变抽取及拟合
+https://github.com/gmzsebastian/AT2018hyz
+
+瞬变源光变曲线拟合
+https://github.com/guillochon/MOSFiT
+
+黑子构造和演化
+https://github.com/samarth-kashyap/starspots
+
 
 
 机器学习及在天文中应用
@@ -397,8 +416,7 @@ https://github.com/waqasbhatti/astrobase
 Auriga神经网络预测星族年龄、消光、距离
 https://github.com/mkounkel/Auriga
 
-isochrones利用MCMC拟合恒星性质
-https://github.com/timothydmorton/isochrones
+
 
 
 特殊望远镜的数据处理
@@ -437,6 +455,9 @@ https://github.com/SimonJMurphy/TESSSB9
 TESS光变处理
 https://github.com/msotov/get_TESS_lightcurves
 
+TESS光变提取
+https://github.com/afeinstein20/eleanor
+
 Gaia数据利用
 https://github.com/adrn/pyia
 
@@ -448,6 +469,8 @@ https://github.com/HC-Hwang/wise_light_curves
 
 ZTF报警
 https://github.com/ZwickyTransientFacility/alert_tools
+
+https://github.com/ZwickyTransientFacility/ztf-avro-alert
 
 ZTF源分类
 https://github.com/ZwickyTransientFacility/scope
@@ -476,3 +499,30 @@ https://github.com/astronomical-data-processing/cnn_spectra_classification
 
 LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
+
+
+恒星双星演化模型
+--------------
+
+Padova恒星模型轨迹使用
+https://github.com/philrosenfield/padova_tracks
+
+hoki使用BPASS模型
+https://github.com/HeloiseS/hoki
+
+等年龄线拟合
+https://github.com/Johaney-s/StIFT
+
+isochrones利用MCMC拟合恒星性质
+https://github.com/timothydmorton/isochrones
+
+
+
+工具
+--------------
+
+机器学习
+https://github.com/trevorstephens/gplearn
+
+行星大气性质推测
+https://github.com/tomasstolker/species
