@@ -135,6 +135,9 @@ https://github.com/karllark/dust_extinction
 获取消光率
 https://github.com/kbarbary/extinction
 
+BC改正
+https://github.com/casaluca/bolometric-corrections
+
 由光谱计算波段测光
 https://github.com/mfouesneau/cphot
 
@@ -163,9 +166,6 @@ https://github.com/lukaswenzl/astrometry
 
 天文大数据交叉
 https://github.com/maayane/catsHTM
-
-BC改正
-https://github.com/casaluca/bolometric-corrections
 
 
 测光
@@ -303,27 +303,38 @@ https://github.com/BU-hammerTeam/PyHammer
 快速光谱库提取/内插
 https://mfouesneau.github.io/pystellibs
 
+
+大气参数测量
+---------------
+
+大气参数测量iSpec
+https://github.com/marblestation/iSpec
+
+FASMA
+https://github.com/DanielAndreasen/FASMA
+https://github.com/MariaTsantaki/FASMA-synthesis
+
+SME
+https://github.com/JeffValenti/SME
+
+大气参数计算zaspe
+https://github.com/rabrahm/zaspe
+
 大气参数和RV测量rvspecfit
 https://github.com/segasai/rvspecfit
-
-大气参数估算
-https://github.com/lcx366/ATMOS
 
 大气参数计算StePar
 https://github.com/hmtabernero/StePar
 https://github.com/hmtabernero/SteParSyn
 
-大气参数计算zaspe
-https://github.com/rabrahm/zaspe
-
 大气参数测量（EW method）
 https://github.com/Li-Yangyang/LOTUS
 
-大气参数测量iSPEC
-https://github.com/marblestation/iSpec
+大气参数估算
+https://github.com/lcx366/ATMOS
 
 
-双星
+双星解轨
 ---------------
 
 joker解轨
@@ -335,29 +346,18 @@ https://github.com/California-Planet-Search/radvel
 利用joker做双星星族推论
 https://github.com/adrn/TwoFace
 
-BinSpec拟合（未分辨）双星光谱
-https://github.com/kareemelbadry/binspec
-
-KOREL光谱分解工具的输入输出
-https://github.com/robert-klement/KOREL_tools、
-
 phoebe
 https://github.com/phoebe-project/phoebe2
 
 ELC的输入输出
 https://github.com/mrawls/ELCtools
 
-机器学习进行光谱分解【演化的光谱】
-https://github.com/kim22914351420/spectralGA
+WD code的python端
+https://github.com/swj1442291549/pyWDc
+https://github.com/Varnani/pywd2015-qt5
 
-双星光谱分解
-https://github.com/aplidinio/Spectral-Disentangling
-
-双星SB2 rv抽取
-https://github.com/kcotar/Spectroscopic-binary-decomposition
-
-检查Apogee数据的ccf搜寻光谱双星
-https://github.com/mkounkel/apogeesb2
+多体系统光变曲线拟合
+https://github.com/dfm/photodynam
 
 拟合天测双星轨道
 https://github.com/mkounkel/astrometric_binaries
@@ -375,8 +375,21 @@ gaia天测解轨（输入两颗星ID）
 https://github.com/logan-pearce/lofti_gaia
 https://github.com/dvallsgabaud/lofti_gaiaDR2
 
+拟合轨道的一些方法
+https://github.com/jacob-i-skinner/Orbit-Fitting
+
 直接测量法解轨
 https://github.com/sblunt/orbitize
+
+
+双星光谱分解
+---------------
+
+BinSpec拟合（未分辨）双星光谱
+https://github.com/kareemelbadry/binspec
+
+KOREL光谱分解工具的输入输出
+https://github.com/robert-klement/KOREL_tools
 
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
@@ -385,15 +398,48 @@ https://github.com/ayushmoharana/fd3_initiator
 光谱分解
 https://github.com/jsinkbaek/sb2sep
 
-拟合轨道的一些方法
-https://github.com/jacob-i-skinner/Orbit-Fitting
+双星光谱分解
+https://github.com/aplidinio/Spectral-Disentangling
 
-WD code的python端
-https://github.com/swj1442291549/pyWDc
-https://github.com/Varnani/pywd2015-qt5
+机器学习进行光谱分解【演化的光谱】
+https://github.com/kim22914351420/spectralGA
 
-多体系统光变曲线拟合
-https://github.com/dfm/photodynam
+检查Apogee数据的ccf搜寻光谱双星
+https://github.com/mkounkel/apogeesb2
+
+双星SB2 rv抽取
+https://github.com/kcotar/Spectroscopic-binary-decomposition
+
+
+恒星双星演化模型
+--------------
+
+Padova恒星模型轨迹使用
+https://github.com/philrosenfield/padova_tracks
+
+hoki使用BPASS模型
+https://github.com/HeloiseS/hoki
+
+等年龄线拟合
+https://github.com/Johaney-s/StIFT
+
+isochrones利用MCMC拟合恒星性质
+https://github.com/timothydmorton/isochrones
+
+读MESA数据
+https://github.com/wmwolf/py_mesa_reader
+
+恒星物理参量计算
+https://github.com/rabrahm/isoAR
+
+恒星物理参量计算
+https://github.com/jlin0504/elli
+
+恒星参量计算（交互式）
+https://github.com/ZihanG123/StellarParameters
+
+巨星参量
+https://github.com/StephanStock/SPOG
 
 
 天体物理
@@ -468,6 +514,16 @@ https://github.com/rkiman/wdwarfdate
 白矮星质量半径计算
 https://github.com/Freebird179/WD_mass_radius_relation
 
+造父变星
+https://github.com/saagar-parikh/cepheids-demo
+https://github.com/ceb8/CepheidVariables
+https://github.com/earlbellinger/Cepheid-neural-network
+https://github.com/astroswego/cepheid-visualization
+https://github.com/ckleinastro/period_luminosity_relation_fitting
+
+AGN时序光变分析
+https://github.com/ywx649999311/EzTao
+
 
 机器学习及在天文中应用
 ---------------
@@ -502,8 +558,6 @@ https://github.com/waqasbhatti/astrobase
 
 Auriga神经网络预测星族年龄、消光、距离
 https://github.com/mkounkel/Auriga
-
-
 
 
 特殊望远镜的数据处理
@@ -594,53 +648,7 @@ LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
 
 
-恒星双星演化模型
---------------
-
-Padova恒星模型轨迹使用
-https://github.com/philrosenfield/padova_tracks
-
-hoki使用BPASS模型
-https://github.com/HeloiseS/hoki
-
-等年龄线拟合
-https://github.com/Johaney-s/StIFT
-
-isochrones利用MCMC拟合恒星性质
-https://github.com/timothydmorton/isochrones
-
-读MESA数据
-https://github.com/wmwolf/py_mesa_reader
-
-恒星物理参量计算
-https://github.com/rabrahm/isoAR
-
-恒星物理参量计算
-https://github.com/jlin0504/elli
-
-恒星参量计算（交互式）
-https://github.com/ZihanG123/StellarParameters
-
-巨星参量
-https://github.com/StephanStock/SPOG
-
-
-特殊天体
---------------
-
-造父变星
-https://github.com/saagar-parikh/cepheids-demo
-https://github.com/ceb8/CepheidVariables
-https://github.com/earlbellinger/Cepheid-neural-network
-https://github.com/astroswego/cepheid-visualization
-https://github.com/ckleinastro/period_luminosity_relation_fitting
-
-AGN时序光变分析
-https://github.com/ywx649999311/EzTao
-
-
-
-工具
+普通工具
 --------------
 
 机器学习
