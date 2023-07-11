@@ -130,9 +130,8 @@ https://github.com/mfouesneau/cphot
 生成临边昏暗系数
 https://github.com/nespinoza/limb-darkening
 
-天文表格获取
+天文表格创建
 https://github.com/astrocatalogs/astrocats
-https://github.com/lukaswenzl/astrometry
 
 findchart自动下载
 https://github.com/juandesant/DownloadSDSSFindingCharts
@@ -143,6 +142,16 @@ https://github.com/ggreco77/GWsky
 
 巡天模拟
 https://github.com/ZwickyTransientFacility/simsurvey
+
+行星大气性质推测
+https://github.com/tomasstolker/species
+
+imexam交互式查看图像
+https://github.com/spacetelescope/imexam
+
+天测改正图像坐标
+https://github.com/dstndstn/astrometry.net
+https://github.com/lukaswenzl/astrometry
 
 
 测光
@@ -194,12 +203,9 @@ dolphot处理HST数据
 https://github.com/dweisz/pydolphot
 https://github.com/swj1442291549/pydolphot
 
-imexam交互式查看图像
-https://github.com/spacetelescope/imexam
+Photometry-tools
+https://github.com/jishnupdas/Photometry-tools
 
-天测改正图像坐标
-https://github.com/dstndstn/astrometry.net
-https://github.com/lukaswenzl/astrometry
 
 
 SED拟合
@@ -271,7 +277,7 @@ https://github.com/msotov/SPECIES
 光谱分类
 https://github.com/BU-hammerTeam/PyHammer
 
-光谱库提取
+快速光谱库提取/内插
 https://mfouesneau.github.io/pystellibs/
 
 
@@ -524,5 +530,11 @@ https://github.com/timothydmorton/isochrones
 机器学习
 https://github.com/trevorstephens/gplearn
 
-行星大气性质推测
-https://github.com/tomasstolker/species
+快速画图
+https://github.com/mfouesneau/asciiplot
+
+MCMC讲解
+https://github.com/chi-feng/mcmc-demo
+
+新浪博客批量备份工具
+https://github.com/junyiz/dature
