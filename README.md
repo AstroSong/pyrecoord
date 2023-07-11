@@ -206,6 +206,9 @@ https://github.com/swj1442291549/pydolphot
 Photometry-tools
 https://github.com/jishnupdas/Photometry-tools
 
+sextractor
+https://github.com/ckleinastro/aperture_photometry_scripts
+
 
 
 SED拟合
@@ -521,6 +524,17 @@ https://github.com/Johaney-s/StIFT
 
 isochrones利用MCMC拟合恒星性质
 https://github.com/timothydmorton/isochrones
+
+
+特殊天体
+--------------
+
+造父变星
+https://github.com/saagar-parikh/cepheids-demo
+https://github.com/ceb8/CepheidVariables
+https://github.com/earlbellinger/Cepheid-neural-network
+https://github.com/astroswego/cepheid-visualization
+https://github.com/ckleinastro/period_luminosity_relation_fitting
 
 
 
