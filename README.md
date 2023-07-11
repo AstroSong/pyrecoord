@@ -38,6 +38,7 @@ https://github.com/tatome/dip_test
 
 天文统计
 https://github.com/liuchaonaoc/Astrostatistics
+https://github.com/liuchaonaoc/Astrostatistics2022
 
 scipy的统计模型补充
 https://github.com/statsmodels/statsmodels
@@ -104,11 +105,21 @@ https://github.com/abeelen/mpfit
 mpfit（Levenberg–Markwardt fit algorithm）
 https://github.com/Nablaquabla/easyfit
 
+BayesicFitting
+https://github.com/dokester/BayesicFitting
+
 MCMC估计误差
 https://github.com/nasa/MCMCPy
 
 连续分段函数拟合
 https://github.com/cjekel/piecewise_linear_fit_py
+
+bayesianCurveFitting
+https://github.com/nazariyv/smallMargin_bayesianCurveFitting
+
+Bayesian滑动拟合carma
+https://github.com/brandonckelly/carma_pack
+https://github.com/laofei177/plasticc_carma
 
 
 天文工具
@@ -143,15 +154,18 @@ https://github.com/ggreco77/GWsky
 巡天模拟
 https://github.com/ZwickyTransientFacility/simsurvey
 
-行星大气性质推测
-https://github.com/tomasstolker/species
-
 imexam交互式查看图像
 https://github.com/spacetelescope/imexam
 
 天测改正图像坐标
 https://github.com/dstndstn/astrometry.net
 https://github.com/lukaswenzl/astrometry
+
+天文大数据交叉
+https://github.com/maayane/catsHTM
+
+BC改正
+https://github.com/casaluca/bolometric-corrections
 
 
 测光
@@ -233,6 +247,9 @@ https://github.com/jikrant3/Binary_SED_Fitting
 astroARIADNE SED拟合
 https://github.com/jvines/astroARIADNE
 
+单星或双星
+https://github.com/mkounkel/SEDFit
+
 
 光谱
 ---------------
@@ -252,6 +269,9 @@ https://github.com/oromero1995/SpecTracer
 
 2.16高分辨率光谱处理
 https://github.com/hypergravity/hrs
+
+2.16/2.4长缝光谱处理
+https://github.com/rudolffu/pyfosc
 
 光谱处理
 https://github.com/astropy/specutils
@@ -281,7 +301,26 @@ https://github.com/msotov/SPECIES
 https://github.com/BU-hammerTeam/PyHammer
 
 快速光谱库提取/内插
-https://mfouesneau.github.io/pystellibs/
+https://mfouesneau.github.io/pystellibs
+
+大气参数和RV测量rvspecfit
+https://github.com/segasai/rvspecfit
+
+大气参数估算
+https://github.com/lcx366/ATMOS
+
+大气参数计算StePar
+https://github.com/hmtabernero/StePar
+https://github.com/hmtabernero/SteParSyn
+
+大气参数计算zaspe
+https://github.com/rabrahm/zaspe
+
+大气参数测量（EW method）
+https://github.com/Li-Yangyang/LOTUS
+
+大气参数测量iSPEC
+https://github.com/marblestation/iSpec
 
 
 双星
@@ -289,6 +328,9 @@ https://mfouesneau.github.io/pystellibs/
 
 joker解轨
 https://github.com/adrn/thejoker
+
+视向速度拟合
+https://github.com/California-Planet-Search/radvel
 
 利用joker做双星星族推论
 https://github.com/adrn/TwoFace
@@ -319,6 +361,22 @@ https://github.com/mkounkel/apogeesb2
 
 拟合天测双星轨道
 https://github.com/mkounkel/astrometric_binaries
+
+天体测量解轨orvara
+https://github.com/t-brandt/orvara
+
+天测解轨ExoSOFT
+https://github.com/kylemede/ExoSOFT
+
+双星天测解轨（fortran）
+https://github.com/rebeccahoughton/FOBOS
+
+gaia天测解轨（输入两颗星ID）
+https://github.com/logan-pearce/lofti_gaia
+https://github.com/dvallsgabaud/lofti_gaiaDR2
+
+直接测量法解轨
+https://github.com/sblunt/orbitize
 
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
@@ -389,6 +447,26 @@ https://github.com/guillochon/MOSFiT
 黑子构造和演化
 https://github.com/samarth-kashyap/starspots
 
+行星大气性质推测
+https://github.com/tomasstolker/species
+
+行星天测轨道拟合
+https://github.com/vortex-exoplanet/PyAstrOFit
+
+行星轨道拟合
+https://github.com/LucaMalavolta/PyORBIT
+
+多普勒成像Doppler tomography
+https://github.com/trmrsh/trm-doppler
+
+计算roche lobe
+https://github.com/janvanroestel/pyroche
+
+白矮星年龄测量
+https://github.com/rkiman/wdwarfdate
+
+白矮星质量半径计算
+https://github.com/Freebird179/WD_mass_radius_relation
 
 
 机器学习及在天文中应用
@@ -484,6 +562,12 @@ https://github.com/ZwickyTransientFacility/ztf-avro-alert
 ZTF源分类
 https://github.com/ZwickyTransientFacility/scope
 
+GALEX——flare表
+https://github.com/MillionConcepts/gfcat
+
+Gaia & Hipparcos
+https://github.com/gmbrandt/HTOF
+
 
 lamost相关
 --------------
@@ -525,6 +609,21 @@ https://github.com/Johaney-s/StIFT
 isochrones利用MCMC拟合恒星性质
 https://github.com/timothydmorton/isochrones
 
+读MESA数据
+https://github.com/wmwolf/py_mesa_reader
+
+恒星物理参量计算
+https://github.com/rabrahm/isoAR
+
+恒星物理参量计算
+https://github.com/jlin0504/elli
+
+恒星参量计算（交互式）
+https://github.com/ZihanG123/StellarParameters
+
+巨星参量
+https://github.com/StephanStock/SPOG
+
 
 特殊天体
 --------------
@@ -535,6 +634,9 @@ https://github.com/ceb8/CepheidVariables
 https://github.com/earlbellinger/Cepheid-neural-network
 https://github.com/astroswego/cepheid-visualization
 https://github.com/ckleinastro/period_luminosity_relation_fitting
+
+AGN时序光变分析
+https://github.com/ywx649999311/EzTao
 
 
 
