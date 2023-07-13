@@ -38,6 +38,7 @@ https://github.com/tatome/dip_test
 
 天文统计
 https://github.com/liuchaonaoc/Astrostatistics
+
 https://github.com/liuchaonaoc/Astrostatistics2022
 
 scipy的统计模型补充
@@ -97,6 +98,7 @@ https://github.com/100/Solid
 
 lmfit
 https://github.com/lmfit/lmfit-py
+
 https://github.com/maorshutman/lm
 
 mpfit
@@ -119,6 +121,7 @@ https://github.com/nazariyv/smallMargin_bayesianCurveFitting
 
 Bayesian滑动拟合carma
 https://github.com/brandonckelly/carma_pack
+
 https://github.com/laofei177/plasticc_carma
 
 
@@ -130,6 +133,7 @@ https://github.com/pkgw/pwkit
 
 计算消光系数/消光曲线
 https://github.com/mfouesneau/dustapprox
+
 https://github.com/karllark/dust_extinction
 
 获取消光率
@@ -149,6 +153,7 @@ https://github.com/astrocatalogs/astrocats
 
 findchart自动下载
 https://github.com/juandesant/DownloadSDSSFindingCharts
+
 https://github.com/fpavogt/fcmaker
 
 交互式画天区
@@ -162,6 +167,7 @@ https://github.com/spacetelescope/imexam
 
 天测改正图像坐标
 https://github.com/dstndstn/astrometry.net
+
 https://github.com/lukaswenzl/astrometry
 
 天文大数据交叉
@@ -215,6 +221,7 @@ https://github.com/mfouesneau/pyphot
 
 dolphot处理HST数据
 https://github.com/dweisz/pydolphot
+
 https://github.com/swj1442291549/pydolphot
 
 Photometry-tools
@@ -239,6 +246,7 @@ https://github.com/s-goldman/Dusty-Evolved-Star-Kit
 
 SED拟合单星或双星
 https://github.com/vosjo/speedyfit
+
 https://github.com/lidihei/speedysedfit
 
 双星SED拟合
@@ -312,6 +320,7 @@ https://github.com/marblestation/iSpec
 
 FASMA
 https://github.com/DanielAndreasen/FASMA
+
 https://github.com/MariaTsantaki/FASMA-synthesis
 
 SME
@@ -325,6 +334,7 @@ https://github.com/segasai/rvspecfit
 
 大气参数计算StePar
 https://github.com/hmtabernero/StePar
+
 https://github.com/hmtabernero/SteParSyn
 
 大气参数测量（EW method）
@@ -354,6 +364,7 @@ https://github.com/mrawls/ELCtools
 
 WD code的python端
 https://github.com/swj1442291549/pyWDc
+
 https://github.com/Varnani/pywd2015-qt5
 
 多体系统光变曲线拟合
@@ -373,6 +384,7 @@ https://github.com/rebeccahoughton/FOBOS
 
 gaia天测解轨（输入两颗星ID）
 https://github.com/logan-pearce/lofti_gaia
+
 https://github.com/dvallsgabaud/lofti_gaiaDR2
 
 拟合轨道的一些方法
@@ -393,6 +405,7 @@ https://github.com/robert-klement/KOREL_tools
 
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
+
 https://github.com/ayushmoharana/fd3_initiator
 
 光谱分解
@@ -518,9 +531,13 @@ https://github.com/Freebird179/WD_mass_radius_relation
 
 造父变星
 https://github.com/saagar-parikh/cepheids-demo
+
 https://github.com/ceb8/CepheidVariables
+
 https://github.com/earlbellinger/Cepheid-neural-network
+
 https://github.com/astroswego/cepheid-visualization
+
 https://github.com/ckleinastro/period_luminosity_relation_fitting
 
 AGN时序光变分析
