@@ -39,7 +39,7 @@ https://github.com/tatome/dip_test
 天文统计
 https://github.com/liuchaonaoc/Astrostatistics
 
-https://github.com/liuchaonaoc/Astrostatistics2022
+&emsp;&emsp;&emsp;&emsp;https://github.com/liuchaonaoc/Astrostatistics2022
 
 scipy的统计模型补充
 https://github.com/statsmodels/statsmodels
