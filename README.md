@@ -505,6 +505,8 @@ https://github.com/LucaMalavolta/PyORBIT
 多普勒成像Doppler tomography
 https://github.com/trmrsh/trm-doppler
 
+https://github.com/Alymantara/pydoppler
+
 计算roche lobe
 https://github.com/janvanroestel/pyroche
 
