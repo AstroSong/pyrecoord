@@ -99,7 +99,7 @@ https://github.com/100/Solid
 lmfit
 https://github.com/lmfit/lmfit-py
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/maorshutman/lm
+&emsp;&emsp;https://github.com/maorshutman/lm
 
 mpfit
 https://github.com/abeelen/mpfit
@@ -122,7 +122,7 @@ https://github.com/nazariyv/smallMargin_bayesianCurveFitting
 Bayesian滑动拟合carma
 https://github.com/brandonckelly/carma_pack
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/laofei177/plasticc_carma
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/laofei177/plasticc_carma
 
 
 天文工具
@@ -134,7 +134,7 @@ https://github.com/pkgw/pwkit
 计算消光系数/消光曲线
 https://github.com/mfouesneau/dustapprox
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/karllark/dust_extinction
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/karllark/dust_extinction
 
 获取消光率
 https://github.com/kbarbary/extinction
@@ -154,7 +154,7 @@ https://github.com/astrocatalogs/astrocats
 findchart自动下载
 https://github.com/juandesant/DownloadSDSSFindingCharts
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/fpavogt/fcmaker
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/fpavogt/fcmaker
 
 交互式画天区
 https://github.com/ggreco77/GWsky
@@ -168,7 +168,7 @@ https://github.com/spacetelescope/imexam
 天测改正图像坐标
 https://github.com/dstndstn/astrometry.net
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/lukaswenzl/astrometry
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/lukaswenzl/astrometry
 
 天文大数据交叉
 https://github.com/maayane/catsHTM
@@ -222,7 +222,7 @@ https://github.com/mfouesneau/pyphot
 dolphot处理HST数据
 https://github.com/dweisz/pydolphot
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/swj1442291549/pydolphot
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/swj1442291549/pydolphot
 
 Photometry-tools
 https://github.com/jishnupdas/Photometry-tools
@@ -247,7 +247,7 @@ https://github.com/s-goldman/Dusty-Evolved-Star-Kit
 SED拟合单星或双星
 https://github.com/vosjo/speedyfit
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/lidihei/speedysedfit
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/lidihei/speedysedfit
 
 双星SED拟合
 https://github.com/jikrant3/Binary_SED_Fitting
@@ -271,9 +271,9 @@ https://github.com/TheAstroFactory/pydis
 阶梯光栅光谱处理
 https://github.com/wangleon/gamse
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/ronnyerrmann/HiFLEx
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/ronnyerrmann/HiFLEx
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/oromero1995/SpecTracer
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/oromero1995/SpecTracer
 
 2.16高分辨率光谱处理
 https://github.com/hypergravity/hrs
@@ -335,7 +335,7 @@ https://github.com/segasai/rvspecfit
 大气参数计算StePar
 https://github.com/hmtabernero/StePar
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/hmtabernero/SteParSyn
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/hmtabernero/SteParSyn
 
 大气参数测量（EW method）
 https://github.com/Li-Yangyang/LOTUS
@@ -365,7 +365,7 @@ https://github.com/mrawls/ELCtools
 WD code的python端
 https://github.com/swj1442291549/pyWDc
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/Varnani/pywd2015-qt5
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/Varnani/pywd2015-qt5
 
 多体系统光变曲线拟合
 https://github.com/dfm/photodynam
@@ -406,7 +406,7 @@ https://github.com/robert-klement/KOREL_tools
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
 
-https://github.com/ayushmoharana/fd3_initiator
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/ayushmoharana/fd3_initiator
 
 光谱分解
 https://github.com/jsinkbaek/sb2sep
@@ -518,7 +518,7 @@ https://github.com/LucaMalavolta/PyORBIT
 多普勒成像Doppler tomography
 https://github.com/trmrsh/trm-doppler
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/Alymantara/pydoppler
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/Alymantara/pydoppler
 
 计算roche lobe
 https://github.com/janvanroestel/pyroche
@@ -550,7 +550,7 @@ https://github.com/ywx649999311/EzTao
 astroML及其示例
 https://github.com/astroML/astroML
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/YastroML/YastroML
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/YastroML/YastroML
 
 Andrew Ng的机器学习课程
 https://github.com/kaleko/CourseraML
