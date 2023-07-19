@@ -385,7 +385,7 @@ https://github.com/rebeccahoughton/FOBOS
 gaia天测解轨（输入两颗星ID）
 https://github.com/logan-pearce/lofti_gaia
 
-&emsp;&emsp;&emsp;&emsp;https://github.com/dvallsgabaud/lofti_gaiaDR2
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/dvallsgabaud/lofti_gaiaDR2
 
 拟合轨道的一些方法
 https://github.com/jacob-i-skinner/Orbit-Fitting
@@ -406,7 +406,7 @@ https://github.com/robert-klement/KOREL_tools
 FDBinary code使用（双星分解）
 https://github.com/mrawls/FDBinary-tools
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/ayushmoharana/fd3_initiator
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/ayushmoharana/fd3_initiator
 
 光谱分解
 https://github.com/jsinkbaek/sb2sep
