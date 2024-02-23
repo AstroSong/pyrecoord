@@ -281,6 +281,12 @@ https://github.com/hypergravity/hrs
 2.16/2.4长缝光谱处理
 https://github.com/rudolffu/pyfosc
 
+2.16/E9+G10光谱处理
+
+https://github.com/hypergravity/bfosc
+
+https://github.com/lidihei/pyexspec
+
 光谱处理
 https://github.com/astropy/specutils
 
