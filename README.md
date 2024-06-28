@@ -1,6 +1,9 @@
 # pyrecoord
 A collection of useful python codes from github (keep updating)
 
+[Python教程及技巧](#Python教程及技巧)
+[统计分析方法及算法](#统计分析方法及算法)
+
 
 Python教程及技巧
 ---------------
