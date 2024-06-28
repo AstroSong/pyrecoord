@@ -173,6 +173,22 @@ https://github.com/dstndstn/astrometry.net
 天文大数据交叉
 https://github.com/maayane/catsHTM
 
+获取在线图像或星表  
+https://github.com/astropy/astroquery/
+
+将FITS图像重新投影  
+https://github.com/astropy/reproject
+
+处理healpix的坐标  
+https://github.com/astropy/astropy-healpix
+
+astropy workshop  
+https://github.com/astropy/astropy-workshop
+
+天文画图包  
+https://github.com/aplpy/aplpy
+
+
 
 测光
 ---------------
@@ -671,6 +687,35 @@ https://github.com/astronomical-data-processing/cnn_spectra_classification
 
 LAMOST光谱分类的一些程序
 https://github.com/WangTX1128/LAMOST-
+
+
+射电工具
+--------------
+
+处理光谱cube 
+https://github.com/radio-astro-tools/spectral-cube
+
+射电波束 
+https://github.com/radio-astro-tools/radio-beam
+
+画PV图 
+https://github.com/radio-astro-tools/pvextractor
+
+用来三维找源
+https://gitlab.com/SoFiA-Admin/SoFiA-2
+ 
+干涉仪数据处理软件 
+CASA相关
+https://github.com/casangi
+
+干涉仪基础
+https://github.com/ratt-ru/fundamentals_of_interferometry
+
+FAST的HI数据处理
+https://hifast.readthedocs.io/en/v1.3/
+
+自动标记RFI 
+https://gitlab.com/aroffringa/aoflagger
 
 
 普通工具
